@@ -1,4 +1,3 @@
-## Azad Satkarni
 #### About
 I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB Toshiba IDE HDD Compaq arrived at my desk in 2007
 #### Interests
