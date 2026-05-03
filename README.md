@@ -7,7 +7,7 @@ I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB Toshiba IDE HDD C
 - **NixOS & Nix** the package manager
 - **Self-hosting** for myself, family & friends (Nextcloud, Jellyfin, Matrix, Vaultwarden, etc.)
 
-### Currently Learning
+### Learning
 1. **C**, **Rust,** and **Nix** for fun and profit
 2. [**Compilers**](https://online.stanford.edu/courses/soe-ycscs1-compilers) and [**theory of computation**](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 3. **Cybersecurity fundamentals** @ [pwn.college](https://pwn.college/)
