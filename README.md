@@ -15,10 +15,7 @@ I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB Toshiba IDE HDD C
 ## Projects
 
 ### NixOS
-
-| Name | Description |
-|-------------|-------------------|
-| [sanixos](https://github.com/7karni/sanixos) | Static analysis of NixOS configurations against custom `json` benchmarks (CLI/GitHub Action) |
+- [**sanixos**](https://github.com/7karni/sanixos)**:** Static analysis of NixOS configurations against custom `json` benchmarks (CLI/GitHub Action)
 
 ## Contact info
 - X: [@7karni](https://x.com/7karni)
