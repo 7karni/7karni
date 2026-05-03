@@ -1,7 +1,7 @@
 ## About
 I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB Toshiba IDE HDD Compaq arrived at my desk in 2007
 ### Interests
-- Implementing **math/physics in code** efficiently
+- Implementing **math & physics in code** efficiently
 - **Low-level programming** with minimal abstractions and real constraints
 - **Machine learning engineering,** currently working on a torch-compatible imageloader in Rust
 - **NixOS & Nix** the package manager
