@@ -16,6 +16,7 @@ I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB Toshiba IDE HDD C
 
 ### NixOS
 - [**sanixos**](https://github.com/7karni/sanixos)**:** Static analysis of NixOS configurations against custom `json` benchmarks (CLI/GitHub Action)
+- [**syncthing-nix**](https://syncthing-nix.7karni.workers.dev/)**:** Bulk-generate declarative Syncthing configs for NixOS devices & folders
 
 ## Contact info
 - X: [@7karni](https://x.com/7karni)
