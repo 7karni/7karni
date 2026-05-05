@@ -1,12 +1,12 @@
 ## About
 I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB Toshiba IDE HDD Compaq arrived at my desk in 2006
 ### Interests
-- Implementing **math & physics in code** efficiently
-- **Low-level programming** with minimal abstractions and real constraints
-- **Machine learning engineering,** currently working on a torch-compatible imageloader in Rust
 - **NixOS & Nix** the package manager
 - **Self-hosting** for myself, family & friends (Nextcloud, Jellyfin, Matrix, Vaultwarden, etc.)
-
+- **Machine Learning Engineering,** currently working on a torch-compatible imageloader in Rust
+- Implementing **math & physics in code** efficiently
+- **Low-level programming** with minimal abstractions and real constraints
+  
 ### Learning
 1. **C**, **Rust,** and **Nix** for fun and profit
 2. **Machine Learning Engineering,** with an eye on research
