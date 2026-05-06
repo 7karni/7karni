@@ -2,7 +2,7 @@
 I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB IDE HDD Compaq arrived at my desk in 2006
 ### Interests
 - **NixOS & Nix** the package manager
-- **Self-hosting** for myself, family & friends (Nextcloud, Jellyfin, Matrix, Vaultwarden, etc.)
+- **Self-hosting** for myself, family & friends (Gitea, Pihole, Matrix, Vaultwarden, etc.)
 - **Machine Learning Engineering,** currently working on a torch-compatible imageloader in Rust
 - Implementing **math & physics in code** efficiently
 - **Low-level programming** in C / Rust 
