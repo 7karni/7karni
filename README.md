@@ -1,5 +1,5 @@
 ## About
-I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB Toshiba IDE HDD Compaq arrived at my desk in 2006
+I've loved computers since my 800 Mhz Celeron 128MB SDRAM 20GB IDE HDD Compaq arrived at my desk in 2006
 ### Interests
 - **NixOS & Nix** the package manager
 - **Self-hosting** for myself, family & friends (Nextcloud, Jellyfin, Matrix, Vaultwarden, etc.)
