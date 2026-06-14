@@ -1,14 +1,3 @@
-## About
-Computer lover since my 800 Mhz Celeron 128MB SDRAM 20GB IDE HDD Compaq arrived at my desk in 2006
-### Interests
-- **NixOS & Nix** the package manager
-- **Self-hosting** for myself, family & friends (Gitea, Pihole, Matrix, Vaultwarden, etc.)
-- **Machine Learning Engineering,** currently working on a torch-compatible imageloader in Rust
-- Implementing **math & physics in code** efficiently
-- **Low-level programming** in C / Rust 
-- [**Compilers**](https://online.stanford.edu/courses/soe-ycscs1-compilers) and [**theory of computation**](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
-- [**Cybersecurity**](https://pwn.college/) fundamentals
-
 ## Projects
 
 ### NixOS
